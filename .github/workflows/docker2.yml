@@ -1,6 +1,6 @@
 name: Docker Image CI
 
-on: pus
+on: push
 #
 jobs:
   test:
